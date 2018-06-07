@@ -83,6 +83,18 @@ LINK32=link.exe
 # Begin Group "Source Files"
 
 # PROP Default_Filter "cpp;c;cxx;rc;def;r;odl;idl;hpj;bat"
+# Begin Source File
+
+SOURCE=.\printf.cpp
+# End Source File
+# Begin Source File
+
+SOURCE=".\Ìõ¼þÓï¾ä.cpp"
+# End Source File
+# Begin Source File
+
+SOURCE=".\Ñ­»·.cpp"
+# End Source File
 # End Group
 # Begin Group "Header Files"
 
